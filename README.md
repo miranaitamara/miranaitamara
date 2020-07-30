@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryma Nait Amara 👋
 
-## I'm a [Full Stack Developer][website] !
+## I'm a [Full Stack Developer][website] and travel lover !
 - 🔭 I’m currently working on the platform [IoTsTrust][iotstrust]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
