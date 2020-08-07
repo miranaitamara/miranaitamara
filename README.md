@@ -60,7 +60,7 @@
 <img bg_color="2f80ed" align="left" alt="miranaitamara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miranaitamara&show_icons=true&hide_border=true" />
 
 [iotstrust]:https://www.iotstrust.com/
-[website]: https://github.com/miranaitamara
+[website]: https://ryma-personal-website.herokuapp.com/#/
 [twitter]: https://twitter.com/miranaitamara
 [youtube]: https://www.youtube.com/channel/UCDhj8j7bbDnH5hNTVNRu2ZA/channels?view_as=subscriber
 [instagram]: https://instagram.com/mira.nait
