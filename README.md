@@ -61,9 +61,11 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miranaitamara" alt="miranaitamara" /> </p>
 
+
 ## **You can Reach out to me on** 
 
 ### **<a href="https://ryma-personal-website.herokuapp.com/#/home" target="_blank">Ryma Nait Amara</a>** 
+
 
 ### Connect with me:
 
