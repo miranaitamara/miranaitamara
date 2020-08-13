@@ -59,11 +59,6 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 <p align="center">  </p>
 
-## **You can Reach out to me on** 
-
-### **<a href="https://ryma-personal-website.herokuapp.com/#/home" target="_blank">Ryma Nait Amara</a>** 
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -72,6 +67,10 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+## **You can Reach out to me on** 
+
+### **<a href="https://ryma-personal-website.herokuapp.com/#/home" target="_blank">Ryma Nait Amara</a>** 
 
 </br>
 </br>
