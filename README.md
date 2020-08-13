@@ -59,12 +59,12 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 ## **You can Reach out to me on** 
 
-### **<a href="https://ryma-personal-website.herokuapp.com/#/home" target="_blank">Ryma Nait Amara</a>**
+### **<a href="https://dineshnadimpalli.com" target="_blank">Dinesh Nadimpalli</a>**
 
 </br>
 </br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=miranaitamara" alt="miranaitamara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dineshnadimapalli" alt="dineshnadimapalli" /> </p>
 
 ### Connect with me:
 
