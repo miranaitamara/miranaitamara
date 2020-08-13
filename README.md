@@ -34,7 +34,7 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 </br></br>  
 
- <img  align="right" src="https://github-readme-stats.vercel.app/api?username=miranaitamara&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
+ <img  align="right" src="https://github-readme-stats.vercel.app/api?username=dineshnadimpalli&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
 
 ## **My Tech** 👨🏻‍🔧
 
