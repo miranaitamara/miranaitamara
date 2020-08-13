@@ -57,6 +57,8 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 </br>
 
+<p align="center">  </p>
+
 ## **You can Reach out to me on** 
 
 ### **<a href="https://ryma-personal-website.herokuapp.com/#/home" target="_blank">Ryma Nait Amara</a>** 
