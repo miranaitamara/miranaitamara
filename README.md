@@ -18,7 +18,7 @@
 
 ## **About Me**🧔🏻
 
-I am a self-motivated and passionate  individual who loves to code👨🏻‍💻, build🛠 and colloborate🤝in creating software products that creates impact. I have worked with both Product and Service based companies in web, mobile application development and also an active colloborator in tech community forums
+I am a self-motivated and passionate  individual who loves to code👨🏻‍💻, build🛠 and colloborate🤝in creating software products that creates impact. I have worked with both Product and Service based companies in web application development and also an active colloborator in tech community forums
 
 </br></br>
 
@@ -29,8 +29,8 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 ## **My Work**👨🏻‍💻
 
 - Building complex user experience for web applications using React & Redux
-- Developing cross-platform mobile applications using React-Native & Redux
-- Creating backend server applications using Node, Express, MongoDB
+- Developing web applications using Node React & Redux
+- Creating backend server applications using Node, Express, (MongoDB, MySQL, PostgreSQL)
 
 </br></br>
 
