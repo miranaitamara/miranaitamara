@@ -9,27 +9,8 @@
 - 💬 Ask me about anything.
 - 📫 Reach me using my email on the left.
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/d1e2357ee2dfe86e979776c50a710e34485081ad/undraw_on_the_office_fbfs.svg"/>
 
@@ -38,8 +19,6 @@
 ## **About Me**🧔🏻
 
 I am a self-motivated and passionate  individual who loves to code👨🏻‍💻, build🛠 and colloborate🤝in creating software products that creates impact. I have worked with both Product and Service based companies in web, mobile application development and also an active colloborator in tech community forums
-
-
 
 </br></br>
 
@@ -59,7 +38,6 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 ## **My Tech** 👨🏻‍🔧
 
-<img width="36px" alt="javascript" src="https://raw.githubusercontent.com/dineshnadimpalli/dineshnadimpalli/e964d4b425f5a5f7453984cddc4b4b242aff30e6/javascript.svg">&nbsp;
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -78,6 +56,7 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 </br>
+
 ## **You can Reach out to me on** 
 
 ### **<a href="https://ryma-personal-website.herokuapp.com/#/home" target="_blank">Dinesh Nadimpalli</a>**
@@ -87,6 +66,13 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miranaitamara" alt="miranaitamara" /> </p>
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [iotstrust]:https://www.iotstrust.com/
 [website]: https://ryma-personal-website.herokuapp.com/#/
