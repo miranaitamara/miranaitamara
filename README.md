@@ -72,7 +72,7 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 </br>
 </br>
 
-<p align="center"> <img src="https://github.com/miranaitamara?tab=repositories" alt="miranaitamara" /> </p>
+<p align="center"> <img src="https://github.com/miranaitamara/miranaitamara" alt="miranaitamara" /> </p>
 
 [iotstrust]:https://www.iotstrust.com/
 [website]: https://ryma-personal-website.herokuapp.com/#/
