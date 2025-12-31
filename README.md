@@ -1,10 +1,10 @@
 ### Hi there, I'm Ryma Nait Amara 👋🏼👨🏻‍💻
 
 ## I'm a [Full Stack Developer][website] and travel lover !
-- 🔭 I’m currently working on the platform [IoTsTrust][iotstrust]!
+- 🔭 I’m currently working on the platform [ALEOU][aleou]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games
 - 💬 Ask me about anything.
 - 📫 Reach me using my email on the left or on 	<a title='PRESTATAIRE ProgOnline' href='https://www.progonline.com/javascript-php-mysql-postgresql-freelance-prestataire-teletravail-miranait.html'>
@@ -75,7 +75,7 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miranaitamara" alt="miranaitamara" /> </p>
 
-[iotstrust]:https://www.iotstrust.com/
+[aleou]: https://www.aleou.fr/
 [website]: https://ryma-personal-website.herokuapp.com/#/
 [twitter]: https://twitter.com/miranaitamara
 [youtube]: https://www.youtube.com/channel/UCDhj8j7bbDnH5hNTVNRu2ZA/channels?view_as=subscriber
